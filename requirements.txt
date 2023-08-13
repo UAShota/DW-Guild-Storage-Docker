@@ -1,0 +1,5 @@
+six
+requests
+psycopg2-binary
+matplotlib
+jconfig
